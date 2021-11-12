@@ -15,6 +15,6 @@ spy[len]='\0';
 return spy;
 }
 /**
-本地编辑
+远程编辑
 Remote edit B19032002 刘诗琦
 **/
